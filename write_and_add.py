@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 # Jupyter Notebookで作成し，一部デフォルメ
-[[https://note.nkmk.me/python/|note.nkmk.me site]]
+# https://note.nkmk.me/python/
 
 #Pythonで任意の.txtへ書き込みを行うコード
 #encoding確認
