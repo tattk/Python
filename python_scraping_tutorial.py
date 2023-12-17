@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 # Jupyter Notebookで作成し，一部デフォルメ
-[[https://note.nkmk.me/python/|note.nkmk.me site]]
+# https://note.nkmk.me/python/
 
 #和暦西暦htmlの表をcsvで一括取得
 #データ分析lib pandasでtable取得
